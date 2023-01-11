@@ -15,3 +15,7 @@ console.log(numbers);
 // Slice: The slice method returns a portion of the array signified 
 // by the index numbers in parentheses with the last index number not included in the return.
 console.log(booleans.slice(0, 2));
+
+// Scott is index [0] of the names array.
+// 6 is index [2] of the numbers array.
+// True is index [-1] of the booleans array. 
