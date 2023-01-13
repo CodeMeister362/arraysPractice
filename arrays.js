@@ -18,4 +18,4 @@ console.log(booleans.slice(0, 2));
 
 // Scott is index [0] of the names array.
 // 6 is index [2] of the numbers array.
-// True is index [-1] of the booleans array. 
+// True is index [0] and [2] of the booleans array. 
